@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+table{
+	1px solid black;
+}
+th{
+	text-align:left;
+}
+td{
+	text-align:right;
+}
+.left{
+	text-align:left;
+}
+#first{
+	background-color:#F08080;
+}
+#second{
+	background-color:#FA8072;
+}
+#third{
+	background-color: #FFB6C1;
+}
+#fourth{
+	background-color: #D3D3D3;
+}
